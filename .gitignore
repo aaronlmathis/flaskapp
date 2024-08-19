@@ -4,3 +4,4 @@
 *.log
 *.pyc
 instance/{DB_NAME}
+website/database.db
